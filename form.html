@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formlar</title>
+</head>
+<body>
+    <form action="result.html" method="GET">
+<div>
+    <label for="isim">ad:</label>
+    <input id="isim" type="text" name="isim"> <br>
+    <label for="sname">soy ad:</label>
+    <input id="sname" type="text" name="soyisim">
+</div>
+<div>
+    <label for="şifre">parola:</label>
+    <input type="password" name="parola" id="şifre">
+</div>
+<div>
+    <label for="" > Cinsiyet:</label>
+            <input id="gender1" type="radio" name="gender" value="Erkek">
+            <label for="gender1">Erkek</label>
+            <input id="gender2" type="radio" name="gender" value="Kadın">
+            <label for="gender2">Kadın</label>
+</div>
+<div>
+    <label>Hobi</label> <br>
+    <input type="checkbox" name="sutlac" id="sutlac" checked>
+    <label for="">sutlac</label>
+    <input type="checkbox" name="kunefe" id="kunefe">
+    <label for="">kunefe</label>
+    <input type="checkbox" name="pamuk seker" id="pamuk seker">
+    <label for="">pamuk seker</label>
+    <input type="checkbox" name="aaa" id="aaa">
+    <label for="">aaa</label>
+</div>
+<br><br>
+<div>
+    <label for="age">yas:</label>
+    <input type="number" name="yas" id="age"min="18" ma="45">
+
+</div>
+<br><br>
+<div>
+    <label for="search" ara:></label>
+    <input type="search"name=éarandıé id="search"placeholder=""
+</div>
+<br><br>
+
+<label for="tatlılar">Hangi tatlıyı seversiniz:</label>
+            <select name="Sevilen tatlı" id="tatlılar" size="6" multiple required>
+                <option>Bir tatlı seçiniz</option>
+                <optgroup label="şerbetli">
+                    <option value="kadayıf">kadayıf</option>
+                    <option value="künefe">künefe</option>
+                    <option value="tulumba">tulumba</option>
+                </optgroup>
+                <optgroup label="sütlü">
+                    <option value="tiramisu">tiramisu</option>
+                    <option value="keşkül">keşkül</option>
+                    <option value="aşure">aşure</option>
+                </optgroup>
+                <option value="hiçbiri">hiçbiri</option>
+            </select>
+<br><br><br><br><br>
+        <input type="reset" >
+        <input type="submit" >
+    </form>
+</body>
+</html>
