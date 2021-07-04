@@ -1,19 +1,28 @@
-- 👋 Hi there, I am a Fullstack Web Developer 👋
-- Knowledge is always in my scope !!!
-- 🚀 Skills
-- 👀 I’m interested in [image](https://user-images.githubusercontent.com/81409184/122367305-fe983800-cf64-11eb-94f6-03331e473c01.png)  ![image](https://user-images.githubusercontent.com/81409184/122367553-343d2100-cf65-11eb-9a0c-a829c7d56d72.png)
-![image](https://user-images.githubusercontent.com/81409184/122367590-3b642f00-cf65-11eb-814b-640da31dc99f.png)
-![image](https://user-images.githubusercontent.com/81409184/122367715-5767d080-cf65-11eb-8a06-214bcd90b91b.png)
-![image](https://user-images.githubusercontent.com/81409184/122367903-88480580-cf65-11eb-9d01-19f0fe81fa3d.png)
-![image](https://user-images.githubusercontent.com/81409184/122367947-93029a80-cf65-11eb-8587-ee29a1eeea87.png)
-
-
-- 🌱 I’m currently learning ...!
-
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-betul-prog/betul-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://github-readme-stats.vercel.app/api?username=betul-prog&show_icons=true&theme=tokyonight" align='right' width="55%">
+## Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=frcihan" alt="frcihan" /> </p>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frcihan/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://frcihan.medium.com/)
+[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/channel/UC0zq1UqPsGh51iBZnPNZIaQ)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fr_cihan)
+[![](https://img.shields.io/badge/google%20play-%2300c853.svg?&style=for-the-badge&logo=google%20play&logoColor=white)](https://play.google.com/store/apps/dev?id=5063465632723503345)
+<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
+- 🔭 I'm currently working on frontend and mobile app development (JavaScript | React | React Native)
+- 🌱 I'm currently learning backend development (Node.js | MongoDB | Django)
+- 👯 I'm looking to collaborate on open source projects
+- 💬 Ask me about anything that you want to learn
+## Medium Articles
+- [How to add GIFs in GitHub README Without Software](https://frcihan.medium.com/how-to-add-gifs-in-github-readme-without-software-2536128a3dff)
+- [Google Play Services for Genymotion](https://frcihan.medium.com/google-play-services-for-genymotion-7d7ff8a056e2)
+<!--
+**frcihan/frcihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I'm currently working on programming languages
+- 🌱 I'm currently learning JavaScript | React | React Native
+- 👯 I'm looking to collaborate on open source projects
+- 🤔 I'm looking for help with ...
+- 💬 Ask me about anything
+- 📫 How to reach me: Twitter(https://twitter.com/farukci20)
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
