@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://btlkurumsalbtl.medium.com/)
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCFVgivJi9zOBLhFhHa3T2xg)
 
-<img src="./animation_500_kd7ngokt.gif" alt="react" width="20%" height="20%" align="right">
+<img src="./animation_500_kd7ngokt.gif" alt="react -native " width="20%" height="20%" align="right">
 
 - 🌱 I'm currently learning fronted and backend development (Java Script | React | Node.js | MongoDB | Django)
 - 👯 I'm looking to collaborate on open source projects
