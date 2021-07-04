@@ -1,10 +1,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=betul-prog&show_icons=true&theme=tokyonight" align='right' width="55%">
 ## Hi there 👋
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betul-prog" alt="betul-prog" /> </p>
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bet%C3%BCl-sen/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://btlkurumsalbtl.medium.com/)
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCFVgivJi9zOBLhFhHa3T2xg)
-
 
 <img src="./animation_500_kd7ngokt.gif" alt="react" width="20%" height="20%" align="right">
 
