@@ -11,12 +11,12 @@
 <a href="https://btlkurumsalbtl.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/%20-medium-black" alt="https://btlkurumsalbtl.medium.com/">
 </a>
+<a href="https://www.youtube.com/channel/UCFVgivJi9zOBLhFhHa3T2xg" target="_blank">
+    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/UCFVgivJi9zOBLhFhHa3T2xg">
 </a>
-<a href="https://youtube.com/channel/UC0zq1UqPsGh51iBZnPNZIaQ" target="_blank">
-    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="https://btlkurumsalbtl.medium.com/">
-</a>
-
+<a>
 <img src="./animation_500_kd7ngokt.gif" alt="react" width="20%" height="20%" align="right">
+</a>    
 
 - 🌱 I'm currently learning fronted and backend development (Java Script | React | Node.js | MongoDB | Django)
 - 👯 I'm looking to collaborate on open source projects
