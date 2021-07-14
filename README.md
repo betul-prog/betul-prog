@@ -8,14 +8,13 @@
 <a href="mailto:btlkurumsalbtl" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:btlkurumsalbtl@gmail.com">
 </a>
-<a href="https://medium.com/@btlkurumsal" target="_blank">
-    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@btlkurumsal">
+<a href="https://btlkurumsalbtl.medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://btlkurumsalbtl.medium.com/">
 </a>
-[![]("https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/bet%C3%BCl-sen/)
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://frcihan.medium.com/)
-[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/channel/UC0zq1UqPsGh51iBZnPNZIaQ)
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fr_cihan)
-
+</a>
+<a href="https://youtube.com/channel/UC0zq1UqPsGh51iBZnPNZIaQ" target="_blank">
+    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="https://btlkurumsalbtl.medium.com/">
+</a>
 
 <img src="./animation_500_kd7ngokt.gif" alt="react" width="20%" height="20%" align="right">
 
