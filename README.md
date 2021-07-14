@@ -2,11 +2,20 @@
 ## Hi there 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betul-prog" alt="betul-prog" /> </p>
+<a href="https://www.linkedin.com/in/bet%C3%BCl-sen/" target="_blank">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/bet%C3%BCl-sen/">
+</a>
+<a href="mailto:btlkurumsalbtl" target="_blank">
+    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:btlkurumsalbtl@gmail.com">
+</a>
+<a href="https://medium.com/@btlkurumsal" target="_blank">
+    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@btlkurumsal">
+</a>
 [![]("https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/bet%C3%BCl-sen/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://frcihan.medium.com/)
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/channel/UC0zq1UqPsGh51iBZnPNZIaQ)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fr_cihan)
-[![](https://img.shields.io/badge/google%20play-%2300c853.svg?&style=for-the-badge&logo=google%20play&logoColor=white)](https://play.google.com/store/apps/dev?id=5063465632723503345)
+
 
 <img src="./animation_500_kd7ngokt.gif" alt="react" width="20%" height="20%" align="right">
 
