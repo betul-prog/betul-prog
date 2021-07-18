@@ -24,15 +24,9 @@
 ## Medium Articles
 - [Yeni başlayanlar için IT..Siz de konumlandıramadıklarımızdan mısınız?](https://btlkurumsalbtl.medium.com/yeni-ba%C5%9Flayanlar-i%C3%A7in-it-sizde-konumland%C4%B1ramad%C4%B1klar%C4%B1m%C4%B1zdan-m%C4%B1s%C4%B1n%C4%B1z-7990b013427b)
 - [HTML oldu sana XML](https://btlkurumsalbtl.medium.com/html-oldu-sana-xml-d6d3d2cae617)
-<!--
-**frcihan/frcihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I'm currently working on programming languages
-- 🌱 I'm currently learning JavaScript | React | React Native
-- 👯 I'm looking to collaborate on open source projects
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about anything
-- 📫 How to reach me: Twitter(https://twitter.com/farukci20)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 📫 How to reach me: 
+- <a href="https://www.linkedin.com/in/bet%C3%BCl-sen/" target="_blank">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/bet%C3%BCl-sen/">
+-..
 -->
