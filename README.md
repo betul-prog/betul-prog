@@ -1,5 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=betul-prog&show_icons=true&theme=tokyonight" align='right' width="55%">
-## Hi there 👋
+## Hi there 👋 Betül here! Loves developing..
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betul-prog" alt="betul-prog" /> </p>
 <a href="https://www.linkedin.com/in/bet%C3%BCl-sen/" target="_blank">
