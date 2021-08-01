@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/UCFVgivJi9zOBLhFhHa3T2xg">
 </a>
 <a>
-<img src="./react_logo.png"align='right' width="55%">
+<img src="././react_logo.png"align='left' width="55%" alt="react">
 </a>    
 
 - 🌱 I'm currently learning fronted and backend development (Java Script | React | Node.js | MongoDB | Django)
